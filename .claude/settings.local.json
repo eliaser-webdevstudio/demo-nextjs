@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(pkill -f \"next dev\")",
+      "Bash(npm run *)",
+      "Bash(curl -s http://localhost:3001)",
+      "Bash(curl -s http://localhost:3000)",
+      "Bash(curl -s http://localhost:3000/contact)",
+      "Bash(curl -s http://localhost:3000/blog)",
+      "Bash(curl -s \"http://localhost:3000/blog/complete-guide-prop-trading-2024\")"
+    ]
+  }
+}
